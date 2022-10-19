@@ -15,7 +15,9 @@ def main(a,b,c):
     if(b>=0):
         d += 1
     if(c >= 0):
-        d += 1             
+        d += 1
+                     
     return d
+
 
 print(main(4,-8, 5))    
